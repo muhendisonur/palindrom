@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\queue\bin\Debug\net6.0\queue.exe
+C:\Users\Administrator\source\repos\queue\bin\Debug\net6.0\queue.deps.json
+C:\Users\Administrator\source\repos\queue\bin\Debug\net6.0\queue.runtimeconfig.json
+C:\Users\Administrator\source\repos\queue\bin\Debug\net6.0\queue.dll
+C:\Users\Administrator\source\repos\queue\bin\Debug\net6.0\queue.pdb
+C:\Users\Administrator\source\repos\queue\obj\Debug\net6.0\queue.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\queue\obj\Debug\net6.0\queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\queue\obj\Debug\net6.0\queue.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\queue\obj\Debug\net6.0\queue.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\queue\obj\Debug\net6.0\queue.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\queue\obj\Debug\net6.0\queue.dll
+C:\Users\Administrator\source\repos\queue\obj\Debug\net6.0\refint\queue.dll
+C:\Users\Administrator\source\repos\queue\obj\Debug\net6.0\queue.pdb
+C:\Users\Administrator\source\repos\queue\obj\Debug\net6.0\queue.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\queue\obj\Debug\net6.0\ref\queue.dll
