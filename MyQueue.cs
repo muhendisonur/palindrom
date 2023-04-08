@@ -17,7 +17,7 @@ namespace queue
         {
             this.size = sizePara;
             values = new char[size];
-            this.front = rear = -1;
+            front = rear = -1;
         }
 
         public bool isEmpty()
@@ -61,7 +61,7 @@ namespace queue
                 Console.WriteLine("Kuyruk boş, yazdırılacak bir şey yok!");
             else
             {
-                for (int i = ++front; i <= this.rear; i++)
+                for (int i = 0; i <= this.rear; i++) //front++ ifadesi enqueue işlemini bozduğu için burada i = 0 alınmıştır.
                 {
                     Console.WriteLine(values[i]);
                 }
